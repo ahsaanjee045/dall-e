@@ -21,3 +21,11 @@
   background-color: #666e75;
   border-radius: 5px;
 }
+
+main::-webkit-scrollbar{
+    width: 5px;
+}
+main::-webkit-scrollbar-thumb{
+    background-color: #666e75;
+    border-radius: 5px;
+}
